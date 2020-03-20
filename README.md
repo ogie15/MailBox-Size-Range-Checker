@@ -3,7 +3,7 @@ checks mailbox size
 
 For this to work need to connect to exchange online via PowerShell [visit](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)
 
-##Script instructions are below
+## Script instructions are below
 
 There will be a prompt to enter the size of mailbox you want to check *kindly enter numbers* *example 12*
 
