@@ -23,4 +23,4 @@ That is for mailbox that are 1024KB which is equal to 1MB, will not be checked o
 
 For does mailboxes you will need to enter *MB* when on third prompt
 
-
+☺️ for further inquiries reach out to [Ogie](https://www.linkedin.com/in/ibhadogiemu-okougbo-311a5ab3)
