@@ -19,7 +19,7 @@ Kindly Note that the script will isolate the size checking to the size value spe
 
 If *KB* is entered it will only check mailboxes within *KB* ranges
 
-That is for mailbox that are 1024KB which is equal to 1MB will not be checked or included in the output
+That is for mailbox that are 1024KB which is equal to 1MB, will not be checked or included in the output
 
 For does mailboxes you will need to enter *MB* when on third prompt
 
