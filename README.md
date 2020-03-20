@@ -5,7 +5,7 @@ For this to work need to connect to exchange online via PowerShell [visit](https
 
 ## Script instructions are below
 
-There will be a prompt to enter the size of mailbox you want to check *kindly enter numbers* *example 12*
+There will be a prompt to enter the size of mailbox you want to check; *"kindly enter numbers **example 12**"*
 
 Next prompt will be to enter a condtion for the range 
 
