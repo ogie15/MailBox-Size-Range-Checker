@@ -23,4 +23,8 @@ That is for mailbox that are 1024KB which is equal to 1MB, will not be checked o
 
 For does mailboxes you will need to enter *MB* when on third prompt
 
+A file is created called **MboxSize.csv** in directory where PowerShell is been run from 
+
+**__check PWD (present working directory) for the file__**
+
 ☺️ for further inquiries reach out to [Ogie](https://www.linkedin.com/in/ibhadogiemu-okougbo-311a5ab3)
