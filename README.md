@@ -1,5 +1,5 @@
 # MailBoxSizeRange
-checks mailbox size ranges  
+checks mailbox size range  
 
 For this to work need to connect to exchange online via PowerShell [visit](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)
 
